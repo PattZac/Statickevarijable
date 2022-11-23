@@ -10,7 +10,7 @@ namespace Statickevarijable
     {
         class PrvaKlasa
         {
-            private static int counter;
+            private static int counter = 0;
             public PrvaKlasa()
             {
                 counter++;
