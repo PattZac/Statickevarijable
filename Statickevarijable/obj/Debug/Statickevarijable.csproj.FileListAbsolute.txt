@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Statickevarijable\Statickevarijable\bin\Debug\Statickevarijable.exe.config
+C:\Users\ucenik\source\repos\Statickevarijable\Statickevarijable\bin\Debug\Statickevarijable.exe
+C:\Users\ucenik\source\repos\Statickevarijable\Statickevarijable\bin\Debug\Statickevarijable.pdb
+C:\Users\ucenik\source\repos\Statickevarijable\Statickevarijable\obj\Debug\Statickevarijable.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Statickevarijable\Statickevarijable\obj\Debug\Statickevarijable.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Statickevarijable\Statickevarijable\obj\Debug\Statickevarijable.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Statickevarijable\Statickevarijable\obj\Debug\Statickevarijable.exe
+C:\Users\ucenik\source\repos\Statickevarijable\Statickevarijable\obj\Debug\Statickevarijable.pdb
